@@ -24,7 +24,10 @@ h6 {
 .topnav {
     font-size: 14px;
 }
-
+.navbar-brand > img {
+    /*display: block;*/
+    width: 66px
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
