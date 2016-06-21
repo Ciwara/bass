@@ -6,20 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: EXPERIENCE TRANSIT TRANSPORT
-
+title: EX-TRA-T
 email: koumabassekou@hotmail.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nous avons des compétences juridiques, administratives, logistiques et commerciales pour mieux vous servirez. Tout les moyens sont à nos porter pour que vos marchandises arrivent dans les délais et à bon port.
+  Expérience Transit Transport a été crée depuis 20-- par son actuel gérant M. Kouma.
+  Expérimenté dans le domaine du transit international et dans la gestion.
+  Vous offre service flexible.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://transitdakar.ml" # the base hostname & protocol for your site
 twitter_username: kkoumabassekou
 github_username:  fadiga
 facebook_username:  kouma.bassekou.9
-
 # Build settings
-markdown: kramdown
 phone_221: (00221) 77 055 36 27 / 77 775 90 56
 phone_223: (00223) 76 10 98 60
