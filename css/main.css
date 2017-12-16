@@ -358,12 +358,12 @@ p.copyright {
     margin: 15px 0 0;
 }
 .diapo1{
-    width: 30em;
+    max-width: 30em;
     height: 20em;
     animation-name: diapo1;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    animation-timing-function: cubic-bezier(0.4, 0, 1, 1);;
+    animation-timing-function: cubic-bezier(0.0, 0, 1, 1);;
     animation-direction:normal;
     margin: 0 auto;
     box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
