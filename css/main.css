@@ -363,6 +363,7 @@ p.copyright {
     animation-name: diapo1;
     animation-duration: 10s;
     animation-iteration-count: infinite;
+    background-image:  url("../img/by-car-1.jpg"); background-repeat:no-repeat;
     animation-timing-function: cubic-bezier(0.0, 0, 1, 1);;
     animation-direction:normal;
     margin: 0 auto;
